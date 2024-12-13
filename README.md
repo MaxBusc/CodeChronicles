@@ -8,7 +8,6 @@ Welcome to my journey through Coding!
 ## Table of Contents
 - [Technologies Used](#technologies-used)
 - [Repository Structure](#repository-structure)
-- [Setup Instructions](#setup-instructions)
 - [Contributing](#contributing)
 
 ## Technologies Used
