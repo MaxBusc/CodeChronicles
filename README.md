@@ -29,6 +29,9 @@ This repository is organized into different projects. Below is a brief list of s
 5. **Power BI Dashboards**  
    Reports and dashboards created in Power BI to showcase data analysis skills.
 
+6. **Learn How to GIT**
+Challenges and exercices to learn the basic and more advanced functions of GIT and GitHub (you need to start somewhere !)
+
 ## Technologies Used
 
 - Python
@@ -46,7 +49,7 @@ Feel free to fork the repository and contribute by submitting pull requests. Any
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ## Acknowledgments
 
